@@ -1,0 +1,1 @@
+export const summaryText = "JavaScript Developer with a focus on back-end web development. Experienced in building secure & responsive interfaces & looking to grow within a dynamic team that values user-centered design, and innovative solutions.";
